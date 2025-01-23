@@ -6,4 +6,4 @@ Rachel Becker rbecker@my.waketech.edu. This is my school account (wake technical
 * My academic interest is currently cybersecurity
 ## Websites I recommend 
 1. [I find myself using Microsoft Word while taking notes, writing essays, and completing homework](https://www.microsoft.com/en-us/microsoft-365/word)
-2. [I also use Blackboard daily becuase it obviously is my access to my classes](https://blackboard.waketech.edu)
+2. [I also use Blackboard daily because it obviously is my access to my classes](https://blackboard.waketech.edu)
